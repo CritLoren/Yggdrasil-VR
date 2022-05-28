@@ -1,8 +1,8 @@
 ![Narsil VR](/assets/1.5.2%20-%20Steam%20Banner.png)
 
-# What is Narsil?
+# What is Yggdrasil VR?
 
-Narsil VR is an ambitious curated mod list that seeks to overhaul and expand Skyrim VR to make it more balanced, challenging, varied, good-looking, and most importantly immersive while making sure it's playable on lower spec configurations with good performance!
+Yggdrasil VR is an ambitious curated mod list that seeks to overhaul and expand Skyrim VR to make it more balanced, challenging, varied, good-looking, and most importantly immersive while making sure it's playable on lower spec configurations with good performance!
 
 
 ## What is installed?
@@ -46,9 +46,7 @@ It adds tons of new spells, locations, dungeons, monsters, bandits, and touches 
 
 ## How does it look?
 
-Narsil may not be the most eye-candy list there is, but I do value not seeing blocky textures and a nice colour
-palette. Here are some screens if you’re curious about how Narsil looks like:
+Yggdrasil VR may not be the most eye-candy list there is, but I do value not seeing blocky textures and a nice colour
+palette. Here are some screens if you’re curious about how Yggdrasil looks like:
 
 [PLACEHOLDER]
-
-If you'd like to see a video comparing Narsil to other popular modlists, [here's a video](https://youtu.be/mrdpjKBT3YQ) made by Kvitevist (author of Auriel's Dream and co-author of FUS) featuring Narsil 1.5.2 alongside Auriel's Dream, UVRE and Vanilla.
