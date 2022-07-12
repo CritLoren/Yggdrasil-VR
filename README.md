@@ -1,4 +1,4 @@
-![Yggdrasil VR](/assets/banner.png)
+![Yggdrasil VR](/assets/smol-banner.png)
 
 # What is Yggdrasil VR?
 
