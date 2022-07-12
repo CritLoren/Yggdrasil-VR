@@ -1,4 +1,4 @@
-![Narsil VR](/assets/1.5.2%20-%20Steam%20Banner.png)
+![Yggdrasil VR](/assets/smol-banner.png)
 
 # What is Yggdrasil VR?
 
