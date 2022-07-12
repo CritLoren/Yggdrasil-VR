@@ -7,7 +7,7 @@ Yggdrasil VR is an ambitious curated mod list that seeks to overhaul and expand 
 
 ## What is installed?
 
-The modlist at the moment has around 800 mods, too many to count, including all the patching and merges. You can see a full list (including the stuff that is pre-merged on my side that won't show up on your side separately in mo2) at [this link](https://loadorderlibrary.com/lists/narsil).
+The modlist at the moment has around 1200 mods (too many to count) including all the patching and merges. You can see a full list (including the stuff that is pre-merged on my side that won't show up on your side separately in mo2) at [this link](https://loadorderlibrary.com/lists/yggdrasil-vr).
 
 
 ## What is different from vanilla?
