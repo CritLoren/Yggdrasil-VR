@@ -49,8 +49,7 @@ It adds tons of new spells, locations, dungeons, monsters, bandits, and touches 
 Yggdrasil VR may not be the most eye-candy list there is, but I do value not seeing blocky textures and a nice colour
 palette. Here are some screens if you’re curious about how Yggdrasil looks like:
 
-[PLACEHOLDER]
-
+<img src="https://github.com/m-vlad/Yggdrasil-vr/blob/main/readme/ss-1.jpeg" width="50%"><img src="https://github.com/m-vlad/Yggdrasil-vr/blob/main/readme/ss-2.jpeg" width="50%">
 
 # How do I get started?
 
