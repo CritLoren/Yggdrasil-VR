@@ -30,11 +30,12 @@ Add a save to reproduce your problem. You can find them at `Yggdrasil VR/profile
 If applicable, add a save to reproduce your problem. You can find them at `My Documents/My Games/Skyrim VR/SKSE/` where they'll be named something like `crash-2021-12-20-23-21-37.log`.
 
 **Desktop (please complete the following information):**
+ - Yggdrasil VR version: [e.g. 2.0-4, 2.0-5]
+ - Storage type Yggdrasil VR is installed on: [e.g. SSD, HDD]
  - OS version: [e.g. Windows 11, Windows 10]
  - RAM: [e.g. 16gb, 32gb]
  - CPU: [e.g. Intel i7-9750H]
  - GPU: [e.g. Nvidia RTX 2060 Mobile]
- - Storage type Yggdrasil VR is installed on: [e.g. SSD, HDD]
  - Antivirus [e.g. Windows Defender, Bitdefender]
 
 **Additional context**
