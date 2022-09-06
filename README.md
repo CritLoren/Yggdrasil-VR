@@ -49,11 +49,15 @@ It adds tons of new spells, locations, dungeons, monsters, bandits, and touches 
 Yggdrasil VR may not be the most eye-candy list there is, but I do value not seeing blocky textures and a nice colour
 palette. Here are some screens if you’re curious about how Yggdrasil looks like:
 
-<img src="https://github.com/m-vlad/Yggdrasil-vr/blob/main/readme/ss-1.jpeg" width="50%"><img src="https://github.com/m-vlad/Yggdrasil-vr/blob/main/readme/ss-2.jpeg" width="50%">
+<img src="https://github.com/CritLoren/Yggdrasil-vr/blob/main/readme/ss-1.jpeg" width="50%"><img src="https://github.com/CritLoren/Yggdrasil-vr/blob/main/readme/ss-2.jpeg" width="50%">
+<img src="https://github.com/CritLoren/Yggdrasil-vr/blob/main/readme/ss-3.jpeg" width="50%"><img src="https://github.com/CritLoren/Yggdrasil-vr/blob/main/readme/ss-4.jpeg" width="50%">
+<img src="https://github.com/CritLoren/Yggdrasil-vr/blob/main/readme/ss-5.jpeg" width="100%">
+
+If you want to see more, make sure to check out the [#showcase](https://discordapp.com/channels/819223849769631785/857421531926888448) channel on the [Yggdrasil VR discord server](https://discord.gg/CKrfyPmZ8H)!
 
 # How do I get started?
 
-You can start installing it by reading the wiki, accessible from [here](https://github.com/m-vlad/Yggdrasil-VR/wiki/Initial-Preparations).
+You can start installing it by reading the wiki, accessible from [here](https://github.com/CritLoren/Yggdrasil-VR/wiki/Initial-Preparations).
 
 # Thank you
 This list would not have been possible without the help of the people on the right. It took a great deal of work to get everything working on my side, but without the help of these people, Yggdrasil VR might've ended before it even began:
