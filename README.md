@@ -57,7 +57,7 @@ If you want to see more, make sure to check out the [#showcase](https://discorda
 
 # How do I get started?
 
-You can start installing it by reading the wiki, accessible from [here](https://github.com/CritLoren/Yggdrasil-VR/wiki/Initial-Preparations).
+You can start installing it by reading the wiki, accessible from [here](https://github.com/CritLoren/Yggdrasil-VR/wiki).
 
 # Thank you
 This list would not have been possible without the help of the people on the right. It took a great deal of work to get everything working on my side, but without the help of these people, Yggdrasil VR might've ended before it even began:
